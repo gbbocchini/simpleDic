@@ -16,7 +16,7 @@ def sinonimo(word):
          elif YN == "N":
             return "Does this word exist?"   
          else:
-            return "Wut? Bye"
+            return "Wut? Let's try again, shall we?"
     else:        
         return "Somenthing wrong is not right! Try again (if you want, of course...)"
 
